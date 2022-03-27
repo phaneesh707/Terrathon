@@ -1,0 +1,9 @@
+.formi{
+    display: flex;
+    align-items: center;
+}
+
+.formilab{
+    margin-left: 20px;
+    align-items: center;
+}
